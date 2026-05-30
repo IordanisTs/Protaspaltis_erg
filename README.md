@@ -25,3 +25,8 @@ The analysis is broken down into three main Python scripts:
 2. Ensure you have the required libraries installed:
    ```bash
    pip install pandas numpy matplotlib seaborn dash plotly
+Run the dashboard application:
+
+Bash
+python app.py
+Open your web browser and navigate to http://127.0.0.1:8050/.
